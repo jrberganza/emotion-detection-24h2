@@ -1,0 +1,7 @@
+.venv/
+test/
+train/
+*.png
+*.jpg
+*.jpeg
+*.zip
